@@ -6,8 +6,8 @@ const App = () => {
   return (
     <div>
       <h1>Welcome to my website</h1>
-      <h3>This is the content of my side</h3>
-      <h3>2023 My Website.All rights reserved</h3>
+      <p>This is the content of my side</p>
+      <p>2023 My Website.All rights reserved</p>
     </div>
   )
 }
